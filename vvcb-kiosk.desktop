@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Name=VVCB Results Monitor
+Name=VVCB Kiosk
 # Run Chromium in incognito mode to avoid Crash modals
 Exec=chromium-browser --incognito --start-fullscreen https://vvcb.cz/monitors
 Terminal=false
