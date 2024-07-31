@@ -3,7 +3,7 @@
 ## Prerequisites
 
 1. Installed [Raspberry Pi OS](https://www.raspberrypi.com/software/)
-1. Enabled desktop with autologon
+1. Enabled desktop environment with autologon
 
 ## Installation
 
