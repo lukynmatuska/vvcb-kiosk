@@ -1,5 +1,10 @@
 # VVCB Kiosk
 
+## Prerequisites
+
+1. Installed [Raspberry Pi OS](https://www.raspberrypi.com/software/)
+1. Enabled desktop with autologon
+
 ## Installation
 
 There are basic instructions.
