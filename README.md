@@ -8,6 +8,7 @@
 ## Installation
 
 There are basic instructions.
+
 1. Clone this repository and enter its folder
 1. Create directory for autostart
 1. Copy Desktop config file to autostart folder
@@ -24,4 +25,7 @@ sudo systemctl reboot
 
 ### Optionaly
 
-Disable screensaver.
+Disable:
+
+- screensaver
+- wallpaper
