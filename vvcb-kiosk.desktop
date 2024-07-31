@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=VVCB Results Monitor
+Exec=chromium-browser --start-fullscreen https://vvcb.cz/monitors
+Terminal=false
+Type=Application
+Icon=chromium-browser
+StartupNotify=true
